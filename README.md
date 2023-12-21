@@ -11,4 +11,4 @@ Machine Learning vs. Deep Learning
 Machine Learning: organized structure data, arrays, etc -- Random forest, gradient boosted models, naive bayes, svm
 Deep Learning: unstractured data, images, tensors -- neural networks, fully connected NN, CNN, RNN, Transformer
 
-Types of Learning: Supervised Learning, Unsupervised&self-supervised learning, transfer Learning
+Types of Learning: Supervised Learning, Unsupervised&self-supervised learning, """transfer Learning"""
