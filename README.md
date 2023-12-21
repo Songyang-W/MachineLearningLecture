@@ -12,3 +12,11 @@ Machine Learning: organized structure data, arrays, etc -- Random forest, gradie
 Deep Learning: unstractured data, images, tensors -- neural networks, fully connected NN, CNN, RNN, Transformer
 
 Types of Learning: <b>Supervised Learning, <b>Unsupervised&self-supervised learning, <b>transfer Learning
+
+<b>seq2seq (translation)
+
+<b>Classification/regression (NLP)
+
+#### PyTorch
+
+
