@@ -1,5 +1,5 @@
 # MachineLearningLecture
-## this page is developed from this [video](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+<b> this page is developed from this [video](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 ## notes
 ### 12/21
 
