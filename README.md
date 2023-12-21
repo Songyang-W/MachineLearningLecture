@@ -1,9 +1,5 @@
 # MachineLearningLecture
-<<<<<<< HEAD
-<b> this page is developed from this [video](https://www.youtube.com/watch?v=Z_ikDlimN6A)
-=======
 **this page is developed from this [video](https://www.youtube.com/watch?v=Z_ikDlimN6A)**
->>>>>>> refs/remotes/origin/main
 ## notes
 ### 12/21
 
@@ -25,4 +21,5 @@ Types of Learning: <b>Supervised Learning, <b>Unsupervised&self-supervised learn
 
 
 ``cd MachineLearningLecture
+
 source venv/bin/activate``
