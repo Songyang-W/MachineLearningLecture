@@ -1,5 +1,5 @@
 # MachineLearningLecture
-## this page is developed from this [video](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+**this page is developed from this [video](https://www.youtube.com/watch?v=Z_ikDlimN6A)**
 ## notes
 ### 12/21
 
@@ -13,9 +13,9 @@ Deep Learning: unstractured data, images, tensors -- neural networks, fully conn
 
 Types of Learning: <b>Supervised Learning, <b>Unsupervised&self-supervised learning, <b>transfer Learning
 
-<b>seq2seq (translation)
+**seq2seq (translation)**
 
-<b>Classification/regression (NLP)
+**Classification/regression (NLP)**
 
 #### PyTorch
 
